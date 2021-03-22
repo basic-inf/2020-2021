@@ -15,6 +15,7 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
 Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 1. Introduzione al corso
+   * slide: [Google Slide](https://tinyurl.com/bi1819-00)
    <hr />
    
 2. Computer, pensiero computazionale e strutture dati
@@ -22,6 +23,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 22 marzo 2021, 09:00-11:00
      * E-M: 22 marzo 2021, 11:00-13:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/01.pdf)
+   * slide: [Google Slide](https://tinyurl.com/bi1819-01)
    <hr />
 
 3. Algoritmi e computabilità
@@ -66,14 +68,14 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/07.pdf)
    <hr />
 
-9. Cosa succede quando si clicca un un link: Le pagine web
+9.  Cosa succede quando si clicca un un link: Le pagine web
    * data:
      * A-D: 19 aprile 2021, 09:00-11:00
      * E-M: 20 aprile 2021, 11:00-13:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/08.pdf)
    <hr />
 
-10. Le tecnologie informatiche nelle scienze umane
+11. Le tecnologie informatiche nelle scienze umane
    * data:
      * A-D: 21 aprile 2021, 11:00-13:00
      * E-M: 22 aprile 2021, 09:00-11:00
