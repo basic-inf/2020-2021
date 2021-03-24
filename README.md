@@ -31,6 +31,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 24 marzo 2021, 11:00-13:00
      * E-M: 25 marzo 2021, 09:00-11:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/02.pdf)
+   * slide: [Google Slide](https://tinyurl.com/bi1819-02)
    <hr />
 
 4. Linguaggi di programmazione
