@@ -97,7 +97,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
     <tr><td>22 marzo 2021, 09:00-11:00</td><td>22 marzo 2021, 11:00-13:00</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
     <tr><td>24 marzo 2021, 11:00-13:00</td><td>25 marzo 2021, 09:00-11:00</td><td>Algoritmi e computabilità</td></tr>
     <tr><td>29 marzo 2021, 09:00-11:00</td><td>30 marzo 2021, 09:00-11:00</td><td>Linguaggi di programmazione</td></tr>
-    <tr><td>31 marzo 2021, 11:00-13:00</td><td>1 aprile 2021, 9:00-11:00</td><td>Cosa succede quando si clicca un un link: Il World Wide Web</td></tr>
+    <tr><td>31 marzo 2021, 11:00-13:00</td><td>1 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un un link: Il World Wide Web</td></tr>
     <tr><td>7 aprile 2021, 11:00-13:00</td><td>6 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un un link: I protocolli di comunicazione</td></tr>
     <tr><td>12 aprile 2021, 09:00-11:00</td><td>13 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
     <tr><td>14 aprile 2021, 11:00-13:00</td><td>15 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un un link: Trasferire informazioni su Internet</td></tr>
