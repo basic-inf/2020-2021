@@ -47,6 +47,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 31 marzo 2021, 11:00-13:00
      * E-M: 1 aprile 2021, 9:00-11:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/04.pdf)
+   * slide: [Google Slide](https://tinyurl.com/bi1819-04)
    <hr />
 
 6. Cosa succede quando si clicca un un link: I protocolli di comunicazione
