@@ -22,7 +22,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * data:
      * A-D: 22 marzo 2021, 09:00-11:00
      * E-M: 22 marzo 2021, 11:00-13:00
-   * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/01.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/01.pdf)
    * slide: [Google Slide](https://tinyurl.com/bi1819-01)
    <hr />
 
@@ -30,7 +30,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * data:
      * A-D: 24 marzo 2021, 11:00-13:00
      * E-M: 25 marzo 2021, 09:00-11:00
-   * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/02.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/02.pdf)
    * slide: [Google Slide](https://tinyurl.com/bi1819-02)
    <hr />
 
@@ -38,7 +38,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * data:
      * A-D: 29 marzo 2021, 09:00-11:00
      * E-M: 30 marzo 2021, 09:00-11:00
-   * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/03.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/03.pdf)
    * slide: [Google Slide](https://tinyurl.com/bi1819-03)
    <hr />
 
@@ -46,7 +46,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * data:
      * A-D: 31 marzo 2021, 11:00-13:00
      * E-M: 1 aprile 2021, 9:00-11:00
-   * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/04.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/04.pdf)
    * slide: [Google Slide](https://tinyurl.com/bi1819-04)
    <hr />
 
@@ -54,35 +54,36 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * data:
      * A-D: 7 aprile 2021, 11:00-13:00
      * E-M: 6 aprile 2021, 09:00-11:00
-   * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/05.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/05.pdf)
+   * slide: [Google Slide](https://tinyurl.com/bi1819-05)
    <hr />
 
 7. Cosa succede quando si clicca un un link: Internet
    * data:
      * A-D: 12 aprile 2021, 09:00-11:00
      * E-M: 13 aprile 2021, 11:00-13:00
-   * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/06.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/06.pdf)
    <hr />
 
 8. Cosa succede quando si clicca un un link: Trasferire informazioni su Internet
    * data:
      * A-D: 14 aprile 2021, 11:00-13:00
      * E-M: 15 aprile 2021, 09:00-11:00
-   * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/07.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/07.pdf)
    <hr />
 
 9.  Cosa succede quando si clicca un un link: Le pagine web
    * data:
      * A-D: 19 aprile 2021, 09:00-11:00
      * E-M: 19 aprile 2021, 11:00-13:00
-   * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/08.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/08.pdf)
    <hr />
 
 11. Le tecnologie informatiche nelle scienze umane
    * data:
      * A-D: 21 aprile 2021, 11:00-13:00
      * E-M: 22 aprile 2021, 09:00-11:00
-   * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/09.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/09.pdf)
    <hr />
 
 11. Wrap-up
