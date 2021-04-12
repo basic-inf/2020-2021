@@ -61,8 +61,9 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 7. Cosa succede quando si clicca un un link: Internet
    * data:
      * A-D: 12 aprile 2021, 09:00-11:00
-     * E-M: 13 aprile 2021, 11:00-13:00
+     * E-M: 13 aprile 2021, 09:00-11:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/06.pdf)
+   * slide: [Google Slide](https://tinyurl.com/bi1819-06)
    <hr />
 
 8. Cosa succede quando si clicca un un link: Trasferire informazioni su Internet
