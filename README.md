@@ -71,6 +71,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 14 aprile 2021, 11:00-13:00
      * E-M: 15 aprile 2021, 09:00-11:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/07.pdf)
+   * slide: [Google Slide](https://tinyurl.com/bi1819-07)
    <hr />
 
 9.  Cosa succede quando si clicca un un link: Le pagine web
