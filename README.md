@@ -42,7 +42,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * slide: [Google Slide](https://tinyurl.com/bi1819-03)
    <hr />
 
-5. Cosa succede quando si clicca un un link: Il World Wide Web
+5. Cosa succede quando si clicca un link: Il World Wide Web
    * data:
      * A-D: 31 marzo 2021, 11:00-13:00
      * E-M: 1 aprile 2021, 9:00-11:00
@@ -50,7 +50,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * slide: [Google Slide](https://tinyurl.com/bi1819-04)
    <hr />
 
-6. Cosa succede quando si clicca un un link: I protocolli di comunicazione
+6. Cosa succede quando si clicca un link: I protocolli di comunicazione
    * data:
      * A-D: 7 aprile 2021, 11:00-13:00
      * E-M: 6 aprile 2021, 09:00-11:00
@@ -58,7 +58,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * slide: [Google Slide](https://tinyurl.com/bi1819-05)
    <hr />
 
-7. Cosa succede quando si clicca un un link: Internet
+7. Cosa succede quando si clicca un link: Internet
    * data:
      * A-D: 12 aprile 2021, 09:00-11:00
      * E-M: 13 aprile 2021, 09:00-11:00
@@ -66,7 +66,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * slide: [Google Slide](https://tinyurl.com/bi1819-06)
    <hr />
 
-8. Cosa succede quando si clicca un un link: Trasferire informazioni su Internet
+8. Cosa succede quando si clicca un link: Trasferire informazioni su Internet
    * data:
      * A-D: 14 aprile 2021, 11:00-13:00
      * E-M: 15 aprile 2021, 09:00-11:00
@@ -74,11 +74,15 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * slide: [Google Slide](https://tinyurl.com/bi1819-07)
    <hr />
 
-9.  Cosa succede quando si clicca un un link: Le pagine web
+9.  Cosa succede quando si clicca un link: Le pagine web
    * data:
      * A-D: 19 aprile 2021, 09:00-11:00
      * E-M: 19 aprile 2021, 11:00-13:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/08.pdf)
+   * slide: [Google Slide](https://tinyurl.com/bi1819-08) 
+   * materiale:
+     * [CSS Zen Garden](http://www.csszengarden.com/)
+     * [Esempio](https://basic-inf.github.io/2020-2021/material/example.html) di pagina HTML
    <hr />
 
 11. Le tecnologie informatiche nelle scienze umane
@@ -102,11 +106,11 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
     <tr><td>22 marzo 2021, 09:00-11:00</td><td>22 marzo 2021, 11:00-13:00</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
     <tr><td>24 marzo 2021, 11:00-13:00</td><td>25 marzo 2021, 09:00-11:00</td><td>Algoritmi e computabilità</td></tr>
     <tr><td>29 marzo 2021, 09:00-11:00</td><td>30 marzo 2021, 09:00-11:00</td><td>Linguaggi di programmazione</td></tr>
-    <tr><td>31 marzo 2021, 11:00-13:00</td><td>1 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un un link: Il World Wide Web</td></tr>
-    <tr><td>7 aprile 2021, 11:00-13:00</td><td>6 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un un link: I protocolli di comunicazione</td></tr>
-    <tr><td>12 aprile 2021, 09:00-11:00</td><td>13 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
-    <tr><td>14 aprile 2021, 11:00-13:00</td><td>15 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un un link: Trasferire informazioni su Internet</td></tr>
-    <tr><td>19 aprile 2021, 09:00-11:00</td><td>19 aprile 2021, 11:00-13:00</td><td>Cosa succede quando si clicca un un link: Le pagine web</td></tr>
+    <tr><td>31 marzo 2021, 11:00-13:00</td><td>1 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td></tr>
+    <tr><td>7 aprile 2021, 11:00-13:00</td><td>6 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un link: I protocolli di comunicazione</td></tr>
+    <tr><td>12 aprile 2021, 09:00-11:00</td><td>13 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un link: Internet</td></tr>
+    <tr><td>14 aprile 2021, 11:00-13:00</td><td>15 aprile 2021, 09:00-11:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td></tr>
+    <tr><td>19 aprile 2021, 09:00-11:00</td><td>19 aprile 2021, 11:00-13:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td></tr>
     <tr><td>21 aprile 2021, 11:00-13:00</td><td>22 aprile 2021, 09:00-11:00</td><td>Le tecnologie informatiche nelle scienze umane</td></tr>
     <tr><td>26 aprile 2021, 09:00-11:00</td><td>29 aprile 2021, 09:00-11:00</td><td>Wrap-up</td></tr>
 </table>
