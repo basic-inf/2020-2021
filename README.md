@@ -97,6 +97,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
     * data:
       * A-D: 26 aprile 2021, 09:00-11:00
       * E-M: 29 aprile 2021, 09:00-11:00
+   * slide: [Google Slide](https://tinyurl.com/bi1819-10) 
    
 
 ### Calendario
