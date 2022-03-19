@@ -15,7 +15,7 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
 Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 1. Introduzione al corso
-   * slide: [Google Slide](https://tinyurl.com/bi1819-00)
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/00.pdf)
    <hr />
    
 2. Computer, pensiero computazionale e strutture dati
@@ -23,7 +23,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 22 marzo 2021, 09:00-11:00
      * E-M: 22 marzo 2021, 11:00-13:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/01.pdf)
-   * slide: [Google Slide](https://tinyurl.com/bi1819-01)
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/01.pdf)
    <hr />
 
 3. Algoritmi e computabilità
@@ -31,7 +31,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 24 marzo 2021, 11:00-13:00
      * E-M: 25 marzo 2021, 09:00-11:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/02.pdf)
-   * slide: [Google Slide](https://tinyurl.com/bi1819-02)
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/02.pdf)
    <hr />
 
 4. Linguaggi di programmazione
@@ -39,7 +39,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 29 marzo 2021, 09:00-11:00
      * E-M: 30 marzo 2021, 09:00-11:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/03.pdf)
-   * slide: [Google Slide](https://tinyurl.com/bi1819-03)
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/03.pdf)
    <hr />
 
 5. Cosa succede quando si clicca un link: Il World Wide Web
@@ -47,7 +47,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 31 marzo 2021, 11:00-13:00
      * E-M: 1 aprile 2021, 9:00-11:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/04.pdf)
-   * slide: [Google Slide](https://tinyurl.com/bi1819-04)
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/04.pdf)
    <hr />
 
 6. Cosa succede quando si clicca un link: I protocolli di comunicazione
@@ -55,7 +55,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 7 aprile 2021, 11:00-13:00
      * E-M: 6 aprile 2021, 09:00-11:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/05.pdf)
-   * slide: [Google Slide](https://tinyurl.com/bi1819-05)
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/05.pdf)
    <hr />
 
 7. Cosa succede quando si clicca un link: Internet
@@ -63,7 +63,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 12 aprile 2021, 09:00-11:00
      * E-M: 13 aprile 2021, 09:00-11:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/06.pdf)
-   * slide: [Google Slide](https://tinyurl.com/bi1819-06)
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/06.pdf)
    <hr />
 
 8. Cosa succede quando si clicca un link: Trasferire informazioni su Internet
@@ -71,7 +71,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 14 aprile 2021, 11:00-13:00
      * E-M: 15 aprile 2021, 09:00-11:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/07.pdf)
-   * slide: [Google Slide](https://tinyurl.com/bi1819-07)
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/07.pdf)
    <hr />
 
 9.  Cosa succede quando si clicca un link: Le pagine web
@@ -79,7 +79,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 19 aprile 2021, 09:00-11:00
      * E-M: 19 aprile 2021, 11:00-13:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/08.pdf)
-   * slide: [Google Slide](https://tinyurl.com/bi1819-08) 
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/08.pdf) 
    * materiale:
      * [CSS Zen Garden](http://www.csszengarden.com/)
      * [Esempio](https://basic-inf.github.io/2020-2021/material/example.html) di pagina HTML
@@ -90,14 +90,14 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * A-D: 21 aprile 2021, 11:00-13:00
      * E-M: 22 aprile 2021, 09:00-11:00
    * capitolo: [PDF](https://basic-inf.github.io/2020-2021/chapters/09.pdf)
-   * slide: [Google Slide](https://tinyurl.com/bi1819-09) 
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/09.pdf) 
    <hr />
 
 11. Wrap-up
     * data:
       * A-D: 26 aprile 2021, 09:00-11:00
       * E-M: 29 aprile 2021, 09:00-11:00
-   * slide: [Google Slide](https://tinyurl.com/bi1819-10) 
+   * slide: [Google Slide](https://basic-inf.github.io/2020-2021/slides/10.pdf) 
    
 
 ### Calendario
